@@ -1,6 +1,5 @@
 package in.data.student;
 
-import static in.data.student.survey_and_statistics.grade;
 
 public class report_generation {
     char grade;

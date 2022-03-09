@@ -1,7 +1,7 @@
 package in.data.student;
 
 public class survey_and_statistics {
-    static char grade;
+    char grade;
     float totalMarks;
     student[] students;
     float[] total_marks_list;

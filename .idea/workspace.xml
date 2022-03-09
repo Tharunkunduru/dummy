@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4b21fd9-4508-44a6-8811-71e00a679ea2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/data/student/evaluation_and_grading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/data/student/implementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/data/student/report_generation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/data/student/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/data/student/survey_and_statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/data/student/report_generation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/data/student/report_generation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/data/student/survey_and_statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/data/student/survey_and_statistics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
