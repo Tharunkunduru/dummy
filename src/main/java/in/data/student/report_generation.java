@@ -50,13 +50,9 @@ public class report_generation {
     {
         for(int i=0;i< students.length;i++)
         {
-            for (int j=i+1;j< students.length;j++)
+            if(total_marks_list[i]>topScore)
             {
-                if(total_marks_list[i]>total_marks_list[j])
-                {
-                    topScore=total_marks_list[i];
-                }
-
+                topScore=total_marks_list[i];
             }
         }
         for(int i=0;i< students.length;i++)
